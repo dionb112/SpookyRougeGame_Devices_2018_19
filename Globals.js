@@ -1,0 +1,10 @@
+const CANVAS_SIZE = 1008;
+const MOVEMENT = 11;
+const INDIAN_RED = '#CD5C5C'
+const OBSTACLE_X = CANVAS_SIZE /1.75;
+const OBSTACLE_Y = 850;
+const GROUND_Y = 930.5;
+const HOR_FRICTION = 0.92;
+const VERT_FRICTION = 0.666;
+const CLOSE_TO_NULL = 0.42;
+const MAX_VEL = 33;
